@@ -1,9 +1,10 @@
-#' Title Calculate the relative expression using delta delta ct method
+#' Calculate the relative expression using delta delta ct method
 #'
 #' @param data a data frame with three columns: sample_name, gene_name, ct
 #' @param internal_ctrl GAPDH, ACTIN, etc
 #' @param format "long" or "wide"
 #'
+#' @importFrom magrittr %>%
 #' @return a long or wide form data frame
 #' @export
 #'

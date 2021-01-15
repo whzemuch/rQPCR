@@ -2,7 +2,7 @@
 % Please edit documentation in R/quick_view_ct.r
 \name{qview_data}
 \alias{qview_data}
-\title{Title Create an overview of the Ct value of all samples}
+\title{Create an overview of the Ct value of all samples}
 \usage{
 qview_data(data_long, ct_diff = 0.5)
 }
@@ -15,7 +15,7 @@ qview_data(data_long, ct_diff = 0.5)
 a ggplotly object showing in row and column with tooltip(ct, well id, different ct)
 }
 \description{
-Title Create an overview of the Ct value of all samples
+Create an overview of the Ct value of all samples
 }
 \examples{
 

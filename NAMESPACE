@@ -3,3 +3,4 @@
 export(Calculate_relative_exp)
 export(import_data)
 export(qview_data)
+importFrom(magrittr,"%>%")

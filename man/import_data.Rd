@@ -2,7 +2,7 @@
 % Please edit documentation in R/import_data.r
 \name{import_data}
 \alias{import_data}
-\title{Title  import the raw data file  and infer the replicates and the ct range.}
+\title{Import the raw data file  and infer the replicates and the ct range.}
 \usage{
 import_data(file)
 }
@@ -13,7 +13,7 @@ import_data(file)
 a list containing a wide form and a long form dataframe
 }
 \description{
-Title  import the raw data file  and infer the replicates and the ct range.
+Import the raw data file  and infer the replicates and the ct range.
 }
 \examples{
 

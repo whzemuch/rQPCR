@@ -2,7 +2,7 @@
 % Please edit documentation in R/calculate_relative_expression.r
 \name{Calculate_relative_exp}
 \alias{Calculate_relative_exp}
-\title{Title Calculate the relative expression using delta delta ct method}
+\title{Calculate the relative expression using delta delta ct method}
 \usage{
 Calculate_relative_exp(data_wide, internal_ctrl, format = "long")
 }
@@ -17,7 +17,7 @@ Calculate_relative_exp(data_wide, internal_ctrl, format = "long")
 a long or wide form data frame
 }
 \description{
-Title Calculate the relative expression using delta delta ct method
+Calculate the relative expression using delta delta ct method
 }
 \examples{
 

@@ -1,8 +1,8 @@
-#' Title Create an overview of the Ct value of all samples
+#' Create an overview of the Ct value of all samples
 #'
 #' @param data_long  long data frame from the output of import_data function
 #' @param ct_diff the threshold for big variation of the replicate wells, the default is 0.5
-#'
+#' @importFrom magrittr %>%
 #'
 #' @return a ggplotly object showing in row and column with tooltip(ct, well id, different ct)
 #' @export

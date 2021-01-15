@@ -1,6 +1,8 @@
-#' Title  import the raw data file  and infer the replicates and the ct range.
+#' Import the raw data file  and infer the replicates and the ct range.
 #'
 #' @param file the text file that exported from sds software
+#'
+#' @importFrom magrittr %>%
 #'
 #' @return a list containing a wide form and a long form dataframe
 #' @export
