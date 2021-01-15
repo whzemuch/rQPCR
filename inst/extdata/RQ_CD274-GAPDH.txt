@@ -1,0 +1,119 @@
+SDS 2.4	AQ Results	1.0
+Filename	qPCR_PA_HZ_01122020
+PlateID	
+Assay Type	Absolute Quantification
+Run DateTime	1/12/21 4:18:16 PM
+Operator	
+ThermalCycleParams	
+
+Sample Information
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+234	GEC	cd274	SYBR	Unknown	26.493196	77.4	Auto Tm				26.389801	26.389801	0.14622326	Automatic Ct		Automatic			Automatic	0.2802319													
+258	GEC	cd274	SYBR	Unknown	26.286406	77.4	Auto Tm				26.389801	26.389801	0.14622326	Automatic Ct		Automatic			Automatic	0.2802319													
+235	GEN	cd274	SYBR	Unknown	26.577301	77.4	Auto Tm				26.640987	26.640987	0.090066135	Automatic Ct		Automatic			Automatic	0.2802319													
+259	GEN	cd274	SYBR	Unknown	26.704674	77.4	Auto Tm				26.640987	26.640987	0.090066135	Automatic Ct		Automatic			Automatic	0.2802319													
+231	GFX	cd274	SYBR	Unknown	28.288431	77.7	Auto Tm				28.292233	28.292233	0.0053759147	Automatic Ct		Automatic			Automatic	0.2802319													
+255	GFX	cd274	SYBR	Unknown	28.296034	77.7	Auto Tm				28.292233	28.292233	0.0053759147	Automatic Ct		Automatic			Automatic	0.2802319													
+232	GTC	cd274	SYBR	Unknown	27.006947	77.6	Auto Tm				27.136677	27.136677	0.18346624	Automatic Ct		Automatic			Automatic	0.2802319													
+256	GTC	cd274	SYBR	Unknown	27.266407	77.6	Auto Tm				27.136677	27.136677	0.18346624	Automatic Ct		Automatic			Automatic	0.2802319													
+233	GTN	cd274	SYBR	Unknown	28.92052	77.6	Auto Tm				28.259565	28.259565	0.93473214	Automatic Ct		Automatic			Automatic	0.2802319													
+257	GTN	cd274	SYBR	Unknown	27.59861	77.6	Auto Tm				28.259565	28.259565	0.93473214	Automatic Ct		Automatic			Automatic	0.2802319													
+239	SEC	cd274	SYBR	Unknown	27.4196	77.3	Auto Tm				27.481125	27.481125	0.087008625	Automatic Ct		Automatic			Automatic	0.2802319													
+263	SEC	cd274	SYBR	Unknown	27.542648	77.3	Auto Tm				27.481125	27.481125	0.087008625	Automatic Ct		Automatic			Automatic	0.2802319													
+240	SEN	cd274	SYBR	Unknown	28.721107	77.3	Auto Tm				28.522753	28.522753	0.28051594	Automatic Ct		Automatic			Automatic	0.2802319													
+264	SEN	cd274	SYBR	Unknown	28.324398	77.3	Auto Tm				28.522753	28.522753	0.28051594	Automatic Ct		Automatic			Automatic	0.2802319													
+236	SFX	cd274	SYBR	Unknown	26.713194	77.3	Auto Tm				26.781006	26.781006	0.095899254	Automatic Ct		Automatic			Automatic	0.2802319													
+260	SFX	cd274	SYBR	Unknown	26.848816	77.3	Auto Tm				26.781006	26.781006	0.095899254	Automatic Ct		Automatic			Automatic	0.2802319													
+237	STC	cd274	SYBR	Unknown	31.163525	77.6	Auto Tm				31.540844	31.540844	0.5336115	Automatic Ct		Automatic			Automatic	0.2802319													
+261	STC	cd274	SYBR	Unknown	31.918165	77.3	Auto Tm				31.540844	31.540844	0.5336115	Automatic Ct		Automatic			Automatic	0.2802319													
+238	STN	cd274	SYBR	Unknown	30.206665	77.3	Auto Tm				30.111984	30.111984	0.1339002	Automatic Ct		Automatic			Automatic	0.2802319													
+262	STN	cd274	SYBR	Unknown	30.017302	77.3	Auto Tm				30.111984	30.111984	0.1339002	Automatic Ct		Automatic			Automatic	0.2802319													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+Well	Sample Name	Detector Name	Reporter	Task	Ct	Tm Value	Tm Type	Quantity	Qty Mean	Qty StdDev	Ct Median	Ct Mean	Ct StdDev	Ct Type	Template Name	Baseline Type	Baseline Start	Baseline Stop	Threshold Type	Threshold	FOS	HMD	LME	EW	BPR	NAW	HNS	HRN	EAF	BAF	TAF	CAF	
+354	GEC	h_gapdh_sybr	SYBR	Unknown	19.8241	80.0	Auto Tm				19.824041	19.824041	8.361935E-5	Automatic Ct		Automatic			Automatic	0.92127264													
+378	GEC	h_gapdh_sybr	SYBR	Unknown	19.823982	80.0	Auto Tm				19.824041	19.824041	8.361935E-5	Automatic Ct		Automatic			Automatic	0.92127264													
+355	GEN	h_gapdh_sybr	SYBR	Unknown	19.931541	80.0	Auto Tm				19.94486	19.94486	0.018835932	Automatic Ct		Automatic			Automatic	0.92127264													
+379	GEN	h_gapdh_sybr	SYBR	Unknown	19.95818	80.0	Auto Tm				19.94486	19.94486	0.018835932	Automatic Ct		Automatic			Automatic	0.92127264													
+351	GFX	h_gapdh_sybr	SYBR	Unknown	20.953823	80.1	Auto Tm				20.94542	20.94542	0.011886085	Automatic Ct		Automatic			Automatic	0.92127264													
+375	GFX	h_gapdh_sybr	SYBR	Unknown	20.937014	80.1	Auto Tm				20.94542	20.94542	0.011886085	Automatic Ct		Automatic			Automatic	0.92127264													
+352	GTC	h_gapdh_sybr	SYBR	Unknown	20.255623	80.1	Auto Tm				20.229584	20.229584	0.036824882	Automatic Ct		Automatic			Automatic	0.92127264													
+376	GTC	h_gapdh_sybr	SYBR	Unknown	20.203545	80.1	Auto Tm				20.229584	20.229584	0.036824882	Automatic Ct		Automatic			Automatic	0.92127264													
+353	GTN	h_gapdh_sybr	SYBR	Unknown	21.128922	80.0	Auto Tm				21.13065	21.13065	0.0024451918	Automatic Ct		Automatic			Automatic	0.92127264													
+377	GTN	h_gapdh_sybr	SYBR	Unknown	21.13238	80.0	Auto Tm				21.13065	21.13065	0.0024451918	Automatic Ct		Automatic			Automatic	0.92127264													
+359	SEC	h_gapdh_sybr	SYBR	Unknown	21.535784	79.7	Auto Tm				21.517385	21.517385	0.026019104	Automatic Ct		Automatic			Automatic	0.92127264													
+383	SEC	h_gapdh_sybr	SYBR	Unknown	21.498987	79.7	Auto Tm				21.517385	21.517385	0.026019104	Automatic Ct		Automatic			Automatic	0.92127264													
+360	SEN	h_gapdh_sybr	SYBR	Unknown	22.201298	79.7	Auto Tm				22.180477	22.180477	0.029446147	Automatic Ct		Automatic			Automatic	0.92127264													
+384	SEN	h_gapdh_sybr	SYBR	Unknown	22.159655	79.7	Auto Tm				22.180477	22.180477	0.029446147	Automatic Ct		Automatic			Automatic	0.92127264													
+356	SFX	h_gapdh_sybr	SYBR	Unknown	19.591053	80.0	Auto Tm				19.30011	19.30011	0.4114571	Automatic Ct		Automatic			Automatic	0.92127264													
+380	SFX	h_gapdh_sybr	SYBR	Unknown	19.009165	80.0	Auto Tm				19.30011	19.30011	0.4114571	Automatic Ct		Automatic			Automatic	0.92127264													
+357	STC	h_gapdh_sybr	SYBR	Unknown	25.45612	79.8	Auto Tm				25.396137	25.396137	0.08482778	Automatic Ct		Automatic			Automatic	0.92127264													
+381	STC	h_gapdh_sybr	SYBR	Unknown	25.336155	80.0	Auto Tm				25.396137	25.396137	0.08482778	Automatic Ct		Automatic			Automatic	0.92127264													
+358	STN	h_gapdh_sybr	SYBR	Unknown	23.561468	79.7	Auto Tm				23.558466	23.558466	0.004245705	Automatic Ct		Automatic			Automatic	0.92127264													
+382	STN	h_gapdh_sybr	SYBR	Unknown	23.555464	79.7	Auto Tm				23.558466	23.558466	0.004245705	Automatic Ct		Automatic			Automatic	0.92127264													
+Slope		cycles/log decade
+Y-Intercept		
+R^2		
+
+
+
+NAP	LPL
+	
